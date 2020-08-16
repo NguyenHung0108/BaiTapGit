@@ -4,3 +4,4 @@ console.log('done_f1');
 console.log('f2');
 console.log('done_f2');
 console.log('f_done');
+console.log('done_All');
